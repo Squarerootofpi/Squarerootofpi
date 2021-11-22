@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Squarerootofpi
 - 👀 I’m interested in everything Devops
 - 🌱 I’m currently learning AWS, Kubernetes, etc...
-- 💞️ I’m looking to collaborate on anything related to complex Database (beyond 3rd normal form), like database in database
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on anything related to complex Database (beyond 3rd normal form), like database in database using graph dbs
+- 📫 How to reach me? See my linkedin at josephdsteed
